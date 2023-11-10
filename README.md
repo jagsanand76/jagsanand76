@@ -1,4 +1,4 @@
-<div> <img src="https://github.com/jagsanand76/jagsanand76/blob/main/16ec43086702cc78d4f87a7fa4afeb11f29f525f" alt="My motto" width="400" height="300"> </div>
+<div> <img src="https://github.com/jagsanand76/jagsanand76/blob/main/MyMotto.jpg" alt="My motto" width="400" height="300"> </div>
   
 ## AboutMe
 <div>
