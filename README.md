@@ -3,7 +3,7 @@
 <hr>
 ## About Me
 <i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
-
+<hr>
 
 <!--
 **jagsanand76/j!
