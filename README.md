@@ -4,12 +4,13 @@
   <i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
 
 ## what I'am Currently working on
+  <i>
   <ul>
     <li> Design and Developing cost effective products solution in Heath care Solution and Medical Devices</li>
     <li> Developing Sustaniability Solutions using SaaS and Fog computing</li>
     <li> Developing Mobility Solution spaning across the Retail , Agiculture and Gaming Areas </li>
   </ul>
-  
+ </i>  
 ## I'am Currently learning on
   <i>Journey Learn and unlearn - You Learn from Everybody</i>
   <ul>
