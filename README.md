@@ -19,9 +19,9 @@
   </ul>
 
 ## Fun Fact
-  <i> Have initiatlly into basketball - that taught me lot in terms during initatil years of Eduction ...</i>
+  <i> Have initially into great game of basketball - that was fun to bring spirit of ...</i>
   <ul>
-     <li>bring sporting spirit, team work , accuracy, Consistency to keep working on it , learn from mistakes </li>
+     <li>sporting spirit, team work , accuracy, Consistency to keep working on it , learn from mistakes </li>
   </ul>   
 
 ## How to reach to me
