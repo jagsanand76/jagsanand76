@@ -1,9 +1,10 @@
-<div>
-<img src="https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04" alt="My motto" width="200" height="200" align="left"/>
+
+<div> <img src="https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04" alt="My motto" width="200" height="200"> </div>
 </div>
 
 <div>
-## About Me
+  
+## AboutMe
 <i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
 
 ## what I'am Currently working on
