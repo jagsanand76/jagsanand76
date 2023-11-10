@@ -1,6 +1,6 @@
 <div> <img src="https://github.com/jagsanand76/jagsanand76/blob/main/MyMotto.jpg" alt="My motto" width="400" height="300"> </div>
   
-## AboutMe
+## About Me
   <i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
 
 ## what I'am Currently working on
