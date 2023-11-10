@@ -1,5 +1,5 @@
 
-<img src="[MyMotto](https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04) alt="My motto" >
+<img src="[MyMotto](https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04)" alt="My motto" >
 
 
 <!--
