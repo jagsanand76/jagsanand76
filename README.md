@@ -1,7 +1,10 @@
-### Hi there 👋
+
+<img src="[MyMotto](https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04) alt="My motto" >
+
 
 <!--
-**jagsanand76/jagsanand76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jagsanand76/j!
+agsanand76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
