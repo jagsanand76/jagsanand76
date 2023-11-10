@@ -23,11 +23,13 @@
 </i>
 
 ## Fun Fact
+<i>
   <i> Have initially into great game of basketball - that was fun to bring spirit of ...</i>
   <ul>
      <li>sporting spirit, team work , accuracy, Consistency to keep working on it , learn from mistakes </li>
   </ul>   
-
+</i>
 ## How to reach to me
-@jagsanand@gmail.com
+<i> @jagsanand@gmail.com  </i>
+
 
