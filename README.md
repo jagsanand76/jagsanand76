@@ -1,5 +1,5 @@
 
-<div> <img src="https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04" alt="My motto" width="200" height="200"> </div>
+<div> <img src="https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04" alt="My motto" width="400" height="300"> </div>
 </div>
 
 <div>
