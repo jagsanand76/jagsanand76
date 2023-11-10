@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 <div> <img src="https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04" alt="My motto" width="400" height="300"> </div>
 </div>
@@ -7,6 +8,29 @@
 ## AboutMe
   <i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
 
+=======
+<<<<<<< HEAD
+<img src="./MyMotto.png" alt="my Motto">
+
+
+##About Me
+
+<i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
+
+
+
+=======
+>>>>>>> fe79edd15ed8c11a92119bedcc02acc88f8defd8
+
+<div> <img src="https://github.com/jagsanand76/jagsanand76/assets/32331987/93c2bb46-d175-4d3d-a84b-a64b57616f04" alt="My motto" width="400" height="300"> </div>
+</div>
+
+<div>
+  
+## AboutMe
+  <i> Driving innovation, delivering complex intiatives, and leading high-performing teams. Adept at translating strategic vision into actionable plans, optimizing processes, and fostering a culture of continuous improvement at micro level to build the value driven outcomes at macro level. </i> 
+
+>>>>>>> Stashed changes
 ## what I'am Currently working on
   <ul>
     <li> Design and Developing cost effective products solution in Heath care Solution and Medical Devices</li>
